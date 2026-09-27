@@ -1,0 +1,11 @@
+{
+  "categories": {
+    "Artificial Intelligence": ["artificial intelligence", "ai", "machine learning", "llm", "agent"],
+    "Technology": ["technology", "software", "cybersecurity", "cloud", "chip", "python", "open source"],
+    "World": ["world", "international", "global", "diplomacy", "summit"],
+    "Business": ["business", "market", "economy", "company", "investment"],
+    "Science": ["science", "research", "space", "climate", "health"]
+  },
+  "summary_sentences": 2,
+  "telegram_max_chars": 900
+}
