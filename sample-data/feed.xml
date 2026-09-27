@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Example Tech News</title>
+    <link>https://example.com/</link>
+    <description>Sample feed for offline testing</description>
+    <item>
+      <title>Open-source AI tooling gains new automation features</title>
+      <link>https://example.com/ai-automation?utm_source=test</link>
+      <description>A new release adds workflow automation and local processing improvements. Developers can use the tools to build repeatable AI-assisted tasks.</description>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python project improves cybersecurity log analysis</title>
+      <link>https://example.com/security-python</link>
+      <description>An open-source Python project introduces simpler log parsing and defensive security reporting. The update focuses on reproducible analysis.</description>
+      <pubDate>Sat, 26 Sep 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open-source AI tooling gains new automation features</title>
+      <link>https://example.com/ai-automation?utm_source=duplicate</link>
+      <description>This duplicate entry should be removed by URL normalization.</description>
+      <pubDate>Sat, 26 Sep 2026 08:05:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
